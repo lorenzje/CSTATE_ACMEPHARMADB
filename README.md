@@ -7,10 +7,8 @@ This SQL script manages the database for Acme Pharmaceuticals' double-blind drug
 ### Author
 
 - **Name:** Jack Lorenz  
-- **Date:** December 12, 2023  
-- **Course:** IT-112 (Fall 2023)  
-- **Instructor:** Tomie Gartland
-
+- **Date:** December 12, 2023
+- 
 ## Features
 
 - **Schema Creation:** Defines tables, views, and relationships for managing trial data.
